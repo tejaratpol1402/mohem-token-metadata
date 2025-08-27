@@ -1,8 +1,9 @@
 {
-  "name": "YourTokenName",
-  "symbol": "YTN",
+  "name": "Tether USD",
+  "symbol": "USDT",
   "decimals": 18,
   "logoURI": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token-metadata/refs/heads/main/logo.svg",
   "image": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token-metadata/refs/heads/main/logo.svg",
   "tags": ["utility", "bep20"]
 }
+
