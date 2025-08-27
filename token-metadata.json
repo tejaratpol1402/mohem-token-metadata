@@ -1,0 +1,34 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "TeamToken is a custom ERC20 token designed for team finance and collaborative projects on the BNB Chain. It enables secure and transparent transactions within the Tejaratpol ecosystem.",
+  "image": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token-metadata/main/logo.svg",
+  "image_url": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token-metadata/main/logo.svg",
+  "external_url": "https://tejaratpol1402.github.io/mohem-token/",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "BNB Chain"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Finance"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/tejaratpol1402/mohem-token-metadata/main/logo.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "utility",
+    "creators": [
+      {
+        "address": "0xYourBNBAddress",
+        "share": 100
+      }
+    ]
+  }
+}
